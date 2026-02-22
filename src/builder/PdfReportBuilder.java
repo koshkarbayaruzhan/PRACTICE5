@@ -1,4 +1,3 @@
 package builder;
 
-public class PdfReportBuilder {
-}
+public class PdfReportBuilder extends TextReportBuilder {}
