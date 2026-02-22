@@ -1,4 +1,5 @@
 package singleton;
 
-public class LogLevel {
+public enum LogLevel {
+    INFO, WARNING, ERROR
 }
